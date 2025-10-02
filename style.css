@@ -62,7 +62,7 @@ body{
     right: 0;
     display: none;
 }.mylearning:hover .mylearning__popup{
-    display: block;
+    display:block;
 }
 .categories{
     display: flex;
